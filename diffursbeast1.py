@@ -12,7 +12,7 @@ def mySecondRhs(x,y):
 def my3Rhs(x,y):
     return sin(x)+1/y
 
-N = 50
+N = 100
 dx = 0.1
 rhs = my3Rhs
 xPrev = 1
